@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN6934
   title: བོད་ཀྱི་ཡུལ་སྲོལ་རྣམ་ཤད།
-  volume: ''
+  volume:
+    4605c771bd764ff7bd1b9448918dedaa:
+      image_group_id: I3CN6936
+      title: Volume 1 of bod kyi yul srol rnam shad/
+      volume_number: 1
+      total_pages: 438
   author: ''
+ebook_metadata:
+  title: བོད་ཀྱི་ཡུལ་སྲོལ་རྣམ་ཤད།
+  author: ''
+  sku: P006963
+  cover: cover.jpg
+  layers:
+  - pagination
