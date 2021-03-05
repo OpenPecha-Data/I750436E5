@@ -1,15 +1,16 @@
-id: opecha:P006963
+id: P006963
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN6934
   title: བོད་ཀྱི་ཡུལ་སྲོལ་རྣམ་ཤད།
-  volume:
+  author: ''
+  volumes:
     4605c771bd764ff7bd1b9448918dedaa:
       image_group_id: I3CN6936
       title: Volume 1 of bod kyi yul srol rnam shad/
       volume_number: 1
       total_pages: 438
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ཀྱི་ཡུལ་སྲོལ་རྣམ་ཤད།
   author: ''
