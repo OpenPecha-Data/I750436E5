@@ -5,11 +5,12 @@ source_metadata:
   title: བོད་ཀྱི་ཡུལ་སྲོལ་རྣམ་ཤད།
   author: ''
   volumes:
-    96d6a4020d824cbdaf17fa77976c065c:
+    4605c771bd764ff7bd1b9448918dedaa:
       image_group_id: I3CN6936
-      title: ''
+      title: Volume 1 of bod kyi yul srol rnam shad/
       volume_number: 1
       total_pages: 438
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ཀྱི་ཡུལ་སྲོལ་རྣམ་ཤད།
   author: ''
