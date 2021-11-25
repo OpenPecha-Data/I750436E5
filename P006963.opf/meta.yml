@@ -1,5 +1,7 @@
 id: P006963
 initial_creation_type: ocr
+created_at: 29/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W3CN6934
   title: བོད་ཀྱི་ཡུལ་སྲོལ་རྣམ་ཤད།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 438
       base_file: v001.txt
-ebook_metadata:
-  title: བོད་ཀྱི་ཡུལ་སྲོལ་རྣམ་ཤད།
-  author: ''
-  sku: P006963
-  cover: cover.jpg
-  layers:
-  - pagination
